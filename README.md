@@ -1,7 +1,7 @@
 User Accounts for CDH
 ---------------------
 
-1. `create-user-accounts.sh`: Script to create the required user accounts
+`create-user-accounts.sh`: Script to create the required user accounts
 
 ```sh
 # Usage
@@ -9,7 +9,7 @@ User Accounts for CDH
 $ ./create-user-accounts.sh
 ```
 
-2. `verify-user-accounts.sh`: Script to check if the required user accounts exist
+`verify-user-accounts.sh`: Script to check if the required user accounts exist
 
 ```sh
 # Sample usage to check errors
